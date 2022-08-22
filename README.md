@@ -55,7 +55,7 @@
 ## Education Program
 </p>
 <p align="center">  
-<img src ="https://raw.githubusercontent.com/abouabra/1337-journey/master/Piscine%202022MED/img/edu_program.png" width="800">
+<img src ="https://github.com/abouabra/1337-journey/blob/master/Piscine%202022MED/img/edu_program.png" width="800">
 </p>
 
 ## 🛠️ Skills developed at 1337
