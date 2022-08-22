@@ -23,22 +23,22 @@
 </p>
 
 <h3 align="center">
-	<a href="https://github.com/achrafelkhnissi/1337/tree/master/Piscine-2021">Piscine</a>
+	<a href="https://github.com/abouabra/1337-journey/tree/master/Piscine%202022MED">Piscine</a>
 	<span> · </span>
-	<a href="https://github.com/achrafelkhnissi/1337/blob/master/42curses/README.md">Cursus</a>
+	<a href="https://github.com/abouabra/1337-journey/tree/master/42%20cursus">Cursus</a>
 </h3>
 
 <p align="center">
-	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/achrafelkhnissi/1337?color=blueviolet" />
-	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/achrafelkhnissi/1337?color=blueviolet" />
-	<img alt="Code language count" src="https://img.shields.io/github/languages/count/achrafelkhnissi/1337?color=blue" />
-	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/achrafelkhnissi/1337?color=blue" />
-	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/achrafelkhnissi/1337?color=brightgreen" />
+	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/abouabra/1337-journey?color=blueviolet" />
+	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/abouabra/1337-journey?color=blueviolet" />
+	<img alt="Code language count" src="https://img.shields.io/github/languages/count/abouabra/1337-journey?color=blue" />
+	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/abouabra/1337-journey?color=blue" />
+	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/abouabra/1337-journey?color=brightgreen" />
 </p>
 
 ---
 
-![1337](https://github.com/achrafelkhnissi/1337/blob/master/Piscine-2021/imgs/1337.jpg)
+![1337](https://github.com/abouabra/1337-journey/blob/master/Piscine%202022MED/img/img.jpg)
 
 ---
 ## 🗣️ About 1337
@@ -49,13 +49,13 @@
 	free for whoever is approved in its selection process* - the so-called "Piscine" - becoming
 	thus "cadets" (42's students).
 
-#### For further information about 42's **selection process** (the "Piscine"), please visit the [C Piscine](https://github.com/achrafelkhnissi/1337/tree/master/Piscine-2021).
+#### For further information about 42's **selection process** (the "Piscine"), please visit the [C Piscine](https://github.com/abouabra/1337-journey/tree/master/Piscine%202022MED).
 ----
 
 ## Education Program
 </p>
 <p align="center">  
-<img src ="https://github.com/achrafelkhnissi/1337/blob/master/Piscine-2021/imgs/3y_edu_program.png" width="800">
+<img src ="https://raw.githubusercontent.com/abouabra/1337-journey/master/Piscine%202022MED/img/edu_program.png" width="800">
 </p>
 
 ## 🛠️ Skills developed at 1337
@@ -72,7 +72,7 @@
 	* Computer graphics
 	* Assembly language
 
--- among others (find it in the complete [curriculum](https://github.com/achrafelkhnissi/1337/blob/master/42curses/README.md#-42s-galaxy-curriculum)).
+-- among others (find it in the complete [curriculum](https://github.com/abouabra/1337-journey/tree/master/42%20cursus)).
 
 ### Soft-skills
 
