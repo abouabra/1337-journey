@@ -1,0 +1,6 @@
+[submodule "42 cursus/libft"]
+	path = 42 cursus/libft
+	url = https://github.com/abouabra/libft
+[submodule "42 cursus/printf"]
+	path = 42 cursus/printf
+	url = https://github.com/abouabra/printf
