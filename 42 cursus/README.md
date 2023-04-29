@@ -1,101 +1,12 @@
-```
-  /* ********************************************************************************* */
-  /*                                                                                   */
-  /*                                  	      :::   ::::::::   ::::::::  :::::::::::   */ 
-  /*                                        :+:+:  :+:    :+: :+:    :+: :+:     :+:   */ 
-  /*                                           +:+         +:+        +:+        +:+   */ 
-  /* By: abouabra                              +#+      +#++:      +#++:        +#+    */ 
-  /*                                           +#+         +#+        +#+      +#+     */ 
-  /* Created: 0000/00/00 by abouabra           #+#  #+#    #+# #+#    #+#     #+#      */ 
-  /* Updated: 0000/00/00 by abouabra         ####### ########   ########      ###.ma   */ 
-  /*           	                                                                       */ 
-  /* ********************************************************************************* */
-```
----
-
 <h1 align="center">
-	1337
+	42cursus
 </h1>
 
 <p align="center">
-	<b><i>Projects developed at <a href="https://www.1337.ma/">1337 MED </a> programming school.</i></b><br>
-	Start date: September 2022 - The 1st promo!
+	<b><i>Projects developed at <a href="https://www.133.ma/">1337 MED </a> programming school.</i></b><br>
+	Start date: 28/Sep/2022 - The 1st promo!
 </p>
 
-<h3 align="center">
-	<a href="https://github.com/abouabra/1337-journey/tree/master/Piscine%202022MED">Piscine</a>
-	<span> · </span>
-	<a href="https://github.com/abouabra/1337-journey/tree/master/42%20cursus">Cursus</a>
-</h3>
-
-<p align="center">
-	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/abouabra/1337-journey?color=blueviolet" />
-	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/abouabra/1337-journey?color=blueviolet" />
-	<img alt="Code language count" src="https://img.shields.io/github/languages/count/abouabra/1337-journey?color=blue" />
-	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/abouabra/1337-journey?color=blue" />
-	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/abouabra/1337-journey?color=brightgreen" />
-</p>
-
----
-
-![1337](https://github.com/abouabra/1337-journey/blob/master/Piscine%202022MED/img/img.jpg)
-
----
-## 🗣️ About 1337
-	1337 is part of 42.
-	42 is a global education initiative that offers a new way of learning technology:
-	no teachers, no classrooms, students learning from their fellow students (peer to peer
-	learning), with a methodology that develops both computing and life skills. The 42 cursus is
-	free for whoever is approved in its selection process* - the so-called "Piscine" - becoming
-	thus "cadets" (42's students).
-
-#### For further information about 42's **selection process** (the "Piscine"), please visit the [C Piscine](https://github.com/abouabra/1337-journey/tree/master/Piscine%202022MED).
-----
-
-## Education Program
-</p>
-<p align="center">  
-<img src ="https://github.com/abouabra/1337-journey/blob/master/Piscine%202022MED/img/edu_program.png" width="800">
-</p>
-
-## 🛠️ Skills developed at 1337
-
-### Hard-skills
-
-	* C/C++ language, Makefile
-	* Shell scripting
-	* Git
-	* Networks
-	* Docker
-	* SQL
-	* Web (HTML, CSS, Wordpress)
-	* Computer graphics
-	* Assembly language
-
--- among others (find it in the complete [curriculum](https://github.com/abouabra/1337-journey/tree/master/42%20cursus)).
-
-### Soft-skills
-
-	# Self-learning and proactivity
-		At 42, self-learning is at the core of its peer to peer learning methodology. There
-		are no teachers whatsoever; the learning process is based on googling, enquiring
-		your classmates, and empirical knowledge, each student learning at their own pace.
-
-	# Teamwork
-		Some projects must or should be developed in groups, which promotes collaborative
-		work among cadets. The major challenge here is to equalize the different knowledge
-		levels while finding a common work methodology that allows all team members to
-		contribute to the project.
-
-	# Time management and resiliency
-		The school is open 24/7. Thus, the cadets are free to work whenever they want, which
-		demands excellent time management skills and resiliency for not "drowning" amid the
-		massive load of work demanded by the program.
-
-
-
-
-<!--
 ## 🌌 42's galaxy (curriculum)
 
 **42cursus** comprises two groups of projects: the first one being known as _"inner circle"_ and the second one, _"outer treks"_ - due to the **Holy Graph** layout (see image below).
@@ -104,7 +15,7 @@ The **inner circle** is the basic curriculum, with all projects being mandatory 
 
 The **outer treks** is a collection of diverse project trails in subjects ranging from operational systems to web development which allows cadets to specialize on whatever subject they prefer.
 
-![42's galaxy](https://github.com/achrafelkhnissi/1337/blob/master/Piscine-2021/imgs/Screen%20Shot%202021-12-07%20at%203.31.58%20AM.png)
+![42's galaxy](https://github.com/achrafelkhnissi/1337/blob/master/Piscine-2021/imgs/holy_graph.png)
 
 The table below presents the cursus curriculum in the chronological order in which it was (or is to be) completed by me - projects order and corresponding attained level may vary among students.
 
@@ -112,9 +23,17 @@ The table below presents the cursus curriculum in the chronological order in whi
 
 |CIRCLE	|PROJECT							|TECHNOLOGY				|EXPERIENCE		|STATUS						|ATTAINED LEVEL	|
 |:-:	|:--								|:--					|--:			|:-:						|:--			|
-|00		|[Libft](https://github.com/achrafelkhnissi/1337/tree/master/42curses/libft)|C						|462 XP			|![Project Score - Libft](https://badge42.herokuapp.com/api/project/ael-khni/Libft)	|level 1 - 6%	|
-|01		|[get_next_line](https://github.com/achrafelkhnissi/1337/tree/master/42curses/get_next_line)|C						|882 XP			|![Project Score - get_next_line](https://badge42.herokuapp.com/api/project/ael-khni/get_next_line)	|level 1 - 57%	|
-|02		|[ft_printf](https://github.com/achrafelkhnissi/1337/tree/master/42curses/ft_printf)|C						|882 XP			|![Project Score - ft_printf](https://badge42.herokuapp.com/api/project/ael-khni/ft_printf)	|level 1 - 98%	|
-|03		|[born2beroot](https://github.com/achrafelkhnissi/1337/tree/master/42curses/Born2beRoot)			|Sysadmin				|577 XP			|![Project Score - netwhat](https://badge42.herokuapp.com/api/project/ael-khni/tree/master/born2beroot)	|level - %	|
-
--->
+|00		|[Libft](https://github.com/achrafelkhnissi/libft)| C	- Libraries					|462 XP			|[![ael-khni's 42 Libft Score](https://badge42.vercel.app/api/v2/cl10eh4l9000609jpe6hwaodr/project/2399862)](https://github.com/JaeSeoKim/badge42)	|level 1 - 6%	|
+|01		|[get_next_line](https://github.com/achrafelkhnissi/get_next_line)| C	- Static variables					|882 XP			|[![ael-khni's 42 Libft Score](https://badge42.vercel.app/api/v2/cl10eh4l9000609jpe6hwaodr/project/2399862)](https://github.com/JaeSeoKim/badge42)	|level 1 - 57%	|
+|02		|[ft_printf](https://github.com/achrafelkhnissi/ft_printf)| C	- Variadic functions					|882 XP			|[![ael-khni's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl10eh4l9000609jpe6hwaodr/project/2414645)](https://github.com/JaeSeoKim/badge42)	|level 1 - 98%	|
+|03		|[born2beroot](https://github.com/achrafelkhnissi/Born2beRoot)			|Sysadmin				|577 XP			|[![ael-khni's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl10eh4l9000609jpe6hwaodr/project/2417413)](https://github.com/JaeSeoKim/badge42)	|level 2 - 22%	|
+|04		|[minitalk](https://github.com/achrafelkhnissi/minitalk)			| C - Signals				|1142  XP			|[![ael-khni's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl10eh4l9000609jpe6hwaodr/project/2433544)](https://github.com/JaeSeoKim/badge42)	|level 2 - 69%	|
+|05		|[so_long](https://github.com/achrafelkhnissi/so_long)			| C - GameDev				|1000  XP			|[![ael-khni's 42 so_long Score](https://badge42.vercel.app/api/v2/cl10eh4l9000609jpe6hwaodr/project/2443356)](https://github.com/JaeSeoKim/badge42)	|level  3 - 5%	|
+|05		|[push_swap](https://github.com/achrafelkhnissi/push_swap)			| C - Sorting algorithms and complexity				|1855  XP			|[![ael-khni's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl10eh4l9000609jpe6hwaodr/project/2457805)](https://github.com/JaeSeoKim/badge42)	|level   3 - 41%	|
+|06		|[Exam Rank 02](https://github.com/achrafelkhnissi/1337/tree/master/42curses/exam-rank-02)			| C - Exam			|0  XP			|[![ael-khni's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl10eh4l9000609jpe6hwaodr/project/2443609)](https://github.com/JaeSeoKim/badge42)	|level   3 - 41%	|
+|05		|[Philosophers](https://github.com/achrafelkhnissi/Philosophers)			| C - Threads and Processes				|3360  XP			|[![ael-khni's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl10eh4l9000609jpe6hwaodr/project/2490088)](https://github.com/JaeSeoKim/badge42) |level 4 - 5%	|
+|06		|[minishell](https://github.com/achrafelkhnissi/minishell)			| C - processes and file descriptors			|2814 XP			|[![ael-khni's 42 minishell Score](https://badge42.vercel.app/api/v2/cl10eh4l9000609jpe6hwaodr/project/2530138)](https://github.com/JaeSeoKim/badge42) |level 4 - 22%	|
+|07		|[cub3D](https://github.com/achrafelkhnissi/cub3d)			| C - GameDev			| 5775 XP | [![ael-khni's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl10eh4l9000609jpe6hwaodr/project/2637602)](https://github.com/JaeSeoKim/badge42) | level 4 - 58%	|
+|08		|[NetPractice](https://github.com/achrafelkhnissi/NetPractice)			| C - Networking			| 3160 XP | [![ael-khni's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl10eh4l9000609jpe6hwaodr/project/2640011)](https://github.com/JaeSeoKim/badge42) | level 4 - 77%	|
+|09		|[CPP-Modules](https://github.com/achrafelkhnissi/CPP_Modules)			| C++			| 9660 XP | [![ael-khni's 42 CPP Module 08 Score](https://badge42.vercel.app/api/v2/cl10eh4l9000609jpe6hwaodr/project/2723075)](https://github.com/JaeSeoKim/badge42) | level 5 - 35%	|
+|10		|[webserv](https://github.com/achrafelkhnissi/webserv)			| Socket Programming - CGI | 21630 XP | ![ael-khni's 42 webserv Score](https://badge42.vercel.app/api/v2/cl10eh4l9000609jpe6hwaodr/project/2490088) | level 6 - 93%	|
