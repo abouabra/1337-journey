@@ -14,7 +14,7 @@
 ---
 
 <h1 align="center">
-	1337
+	1337MED
 </h1>
 
 <p align="center">
@@ -27,18 +27,9 @@
 	<span> · </span>
 	<a href="https://github.com/abouabra/1337-journey/tree/master/42%20cursus">Cursus</a>
 </h3>
-
-<p align="center">
-	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/abouabra/1337-journey?color=blueviolet" />
-	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/abouabra/1337-journey?color=blueviolet" />
-	<img alt="Code language count" src="https://img.shields.io/github/languages/count/abouabra/1337-journey?color=blue" />
-	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/abouabra/1337-journey?color=blue" />
-	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/abouabra/1337-journey?color=brightgreen" />
-</p>
-
 ---
 
-![1337](https://github.com/abouabra/1337-journey/blob/master/Piscine%202022MED/img/img.jpg)
+![1337](https://raw.githubusercontent.com/abouabra/1337-journey/master/imgs/1337MED.jpeg)
 
 ---
 ## 🗣️ About 1337
