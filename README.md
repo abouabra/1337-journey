@@ -27,6 +27,7 @@
 	</div>
 		
   <div style="flex:1;padding-left:10px;">
+	  <br><br>
 		<h2 align="center">
 			<a href="https://github.com/abouabra/1337-journey/tree/master/Piscine%202022MED">Piscine</a>
 		</h2>
@@ -34,11 +35,11 @@
 			<a href="https://github.com/abouabra/1337-journey/tree/master/42%20cursus">Cursus</a>
 		</h2>
 	</div>
-	</a></a>
+	<br><br><br><br><br>
 </div>
 
 <div>
-	<img align="left" src="https://raw.githubusercontent.com/abouabra/1337-journey/master/imgs/1337MED.jpeg" alt="Holy Graph" /></a><br><br><br><br><br><br><br>
+	<img align="left" src="https://raw.githubusercontent.com/abouabra/1337-journey/master/imgs/1337MED.jpeg" alt="1337MED" /></a>
 </div>
 
 ---
