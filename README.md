@@ -12,22 +12,33 @@
   /* ********************************************************************************* */
 ```
 
+---
+
 <h1 align="center">
 	1337MED
 </h1>
-<p align="center">
-	<b><i>Projects developed at <a href="https://www.1337.ma/">1337 MED </a> programming school.</i></b><br>
-	Start date: September 2022 - The 1st promo!
-</p>
+<div style="display:flex">
+	<div style="flex:1;padding-right:10px;">
+	     <a href="https://github.com/oakoudad/badge42"><img align="left" src="https://badge.mediaplus.ma/darkblue/abouabra" alt="abouabra's 42 stats" /></a>
+	</div>
+	<div style="flex:1;padding-left:10px;">
+		<h3 align="center">
+			<b>Projects developed at <a href="https://www.1337.ma/">1337 MED </a> programming school.</b><br>
+			Start date: September 2022 - The 1st promo!
+		</h3><br>
+		<h2 align="center">
+			<a href="https://github.com/abouabra/1337-journey/tree/master/Piscine%202022MED">Piscine</a>
+		</h2>
+		<h2 align="center" style="display:flex;flex-direction:column;align-items:center;">
+			<a href="https://github.com/abouabra/1337-journey/tree/master/42%20cursus">Cursus</a>
+		</h2>
+	</div>
+	</a><br><br><br></a><br>
+</div>
 
-<h3 align="center">
-	<a href="https://github.com/abouabra/1337-journey/tree/master/Piscine%202022MED">Piscine</a>
-	<span> · </span>
-	<a href="https://github.com/abouabra/1337-journey/tree/master/42%20cursus">Cursus</a>
-</h3>
-
-
-![1337](https://raw.githubusercontent.com/abouabra/1337-journey/master/imgs/1337MED.jpeg)
+<div>
+	<img align="left" src="https://raw.githubusercontent.com/abouabra/1337-journey/master/imgs/1337MED.jpeg" alt="Holy Graph" /></a><br><br><br><br><br><br><br>
+</div>
 
 ---
 ## 🗣️ About 1337
