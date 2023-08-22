@@ -22,10 +22,10 @@
 	     <a href="https://github.com/oakoudad/badge42"><img align="left" src="https://badge.mediaplus.ma/darkblue/abouabra" alt="abouabra's 42 stats" /></a>
 	</div>
 	<div style="flex:1;padding-left:10px;">
-		<h3 align="center">
+		<p align="center">
 			<b>Projects developed at <a href="https://www.1337.ma/">1337 MED </a> programming school.</b><br>
 			Start date: September 2022 - The 1st promo!
-		</h3><br>
+		</p><br>
 		<h2 align="center">
 			<a href="https://github.com/abouabra/1337-journey/tree/master/Piscine%202022MED">Piscine</a>
 		</h2>
