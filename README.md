@@ -11,12 +11,10 @@
   /*           	                                                                       */ 
   /* ********************************************************************************* */
 ```
----
 
 <h1 align="center">
 	1337MED
 </h1>
-
 <p align="center">
 	<b><i>Projects developed at <a href="https://www.1337.ma/">1337 MED </a> programming school.</i></b><br>
 	Start date: September 2022 - The 1st promo!
@@ -27,7 +25,7 @@
 	<span> · </span>
 	<a href="https://github.com/abouabra/1337-journey/tree/master/42%20cursus">Cursus</a>
 </h3>
----
+
 
 ![1337](https://raw.githubusercontent.com/abouabra/1337-journey/master/imgs/1337MED.jpeg)
 
@@ -41,12 +39,14 @@
 	thus "cadets" (42's students).
 
 #### For further information about 42's **selection process** (the "Piscine"), please visit the [C Piscine](https://github.com/abouabra/1337-journey/tree/master/Piscine%202022MED).
-----
+
 
 ## Education Program
+----
 </p>
 <p align="center">  
-<img src ="https://github.com/abouabra/1337-journey/blob/master/Piscine%202022MED/img/edu_program.png" width="800">
+<img src ="https://raw.githubusercontent.com/abouabra/1337-journey/master/imgs/ROAD-1.png">
+<img src ="https://raw.githubusercontent.com/abouabra/1337-journey/master/imgs/ROAD-2.png">
 </p>
 
 ## 🛠️ Skills developed at 1337
