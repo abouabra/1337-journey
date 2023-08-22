@@ -1,9 +1,0 @@
-[submodule "42 cursus/libft"]
-	path = 42 cursus/libft
-	url = https://github.com/abouabra/libft
-[submodule "42 cursus/printf"]
-	path = 42 cursus/printf
-	url = https://github.com/abouabra/printf
-[submodule "42 cursus/get_next_line"]
-	path = 42 cursus/get_next_line
-	url = https://github.com/abouabra/get_next_line
